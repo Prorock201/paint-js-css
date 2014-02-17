@@ -1,0 +1,182 @@
+html {
+overflow: hidden;
+}
+	
+body {
+background-color: #A0A0A0;
+}
+	
+h1 {
+text-align: center;
+font-size: 26pt;
+font-weight: 600;
+font-family: AppleGothic, sans-serif;
+text-shadow: -1px -1px 0 rgba(255,255,255,0.5), 1px 1px 0 rgba(0,0,0,0.5);
+color: #303030;
+}
+
+.inside {
+width: 970px;
+height: 555px;
+margin-left: 150px;
+margin-right: 100px;
+padding-bottom: 20px;
+background-color: #FFFFC2;
+box-shadow: 0 0 10px #000000;
+} 
+
+.menu {
+width: 17%; 
+height: 700px;
+padding-top: 30px;
+float: left;
+}
+
+.menu table{
+margin-top: 8px;
+margin-left: 20px;
+}
+	
+.colorPicker {
+width: 50px;
+height: 50px;
+margin-left: 20px;
+margin-bottom: 20px;
+border: 1px solid #808080;
+display: block;
+}
+
+.R {
+background-color: #FF0000;
+}
+
+.Y {
+background-color: #FFFF00;
+}
+
+.B {
+background-color: #0000FF;
+}
+
+.W {
+background-color: #FFFFFF;
+}  
+
+.content {
+width: 780px;
+height: 450px;
+margin-top: 40px;
+margin-left: 20px;
+margin-bottom: 20px;
+float: left;
+}
+
+.myDiv {
+background-color: #FFFFFF;
+float: left;
+}
+
+.A1, .A2, .A3, .A4 {
+border-top: 1px solid #A0A0A0;
+}
+
+.A1, .B1, .C1, .D1 {
+border-left: 1px solid #A0A0A0;
+}
+
+.A4, .B4, .C4, .D4  {
+border-right: 1px solid #A0A0A0;
+}
+
+.D1, .D2, .D3, .D4 {
+border-bottom: 1px solid #A0A0A0;
+}
+
+.A1, .A2, .A3, .B1, .B2, .B3, .C1, .C2, .C3, .D1, .D2, .D3 {
+border-right: 9px solid #000000;
+}
+
+.A1, .A2, .A3, .A4, .B1, .B2, .B3, .B4, .C1, .C2, .C3, .C4 {
+border-bottom: 9px solid #000000;	
+}
+
+.A1 {
+width: 140px;
+height: 100px;
+}
+
+.A2 {
+width: 310px;
+height: 100px;
+}
+
+.A3 {
+width: 100px;
+height: 100px;
+}
+
+.A4 {
+width: 160px;
+height: 100px;
+
+}
+
+.B1 {
+width: 140px;
+height: 170px;
+}
+
+.B2 {
+width: 310px;
+height: 170px;
+}
+
+.B3 {
+width: 100px;
+height: 170px;
+}
+
+.B4 {
+width: 160px;
+height: 170px;
+}
+
+.C1 {
+width: 140px;
+height: 85px;
+}
+
+.C2 {
+width: 310px;
+height: 85px;
+}
+
+.C3 {
+width: 100px;
+height: 85px;
+}
+
+.C4 {
+width: 160px;
+height: 85px;
+}
+
+.D1 {
+width: 140px;
+height: 120px;
+}
+
+.D2 {
+width: 310px;
+height: 120px;
+}
+
+.D3 {
+width: 100px;
+height: 120px;
+}
+
+.D4 {
+width: 160px;
+height: 120px;
+}
